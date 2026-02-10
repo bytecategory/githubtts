@@ -1,0 +1,1 @@
+Enter /table to print all available IETF language tags that have been recorded. Enter a language tag followed by a space and a short text to read the text as an MP3 file using Google Translate's Text-to-Speech API.Telegram:https://t.me/githubtts_bot
